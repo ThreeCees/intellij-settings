@@ -39,7 +39,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
