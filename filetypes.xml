@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
