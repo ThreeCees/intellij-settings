@@ -5,6 +5,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="jsonl_original" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
