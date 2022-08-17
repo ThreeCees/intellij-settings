@@ -14,5 +14,6 @@
     <mask>package.json</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.*s</mask>
   </component>
 </application>
